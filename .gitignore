@@ -25,9 +25,9 @@ build/
 .DS_Store
 Thumbs.db
 
-# Data - Large CSV files
-Raw/*.csv
-cleaned_data/*.csv
+# Data
+#Raw/*.csv
+#cleaned_data/*.csv
 !Raw/.gitkeep
 
 # Logs
