@@ -1,0 +1,19 @@
+Metric,Value
+Total Records,128975
+Total Columns,24
+Records After Cleaning,120378
+Duplicates Removed,8597
+Missing Values (Amount),0
+Missing Values (Qty),0
+Missing Values (Courier Status),0
+Date Range Start,2022-03-31 00:00:00
+Date Range End,2022-06-29 00:00:00
+Unique Order IDs,120378
+Unique Categories,9
+Unique States,47
+Unique Cities,7297
+Total Revenue (INR),73410501.4
+Average Order Value (INR),609.83
+Cancellation Rate (%),14.28
+Delivery Rate (%),22.07
+B2B Orders (%),0.66

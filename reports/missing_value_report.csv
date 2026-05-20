@@ -1,0 +1,25 @@
+Column,Missing Count,Missing Percentage,Data Type
+fulfilled-by,89698,69.55,object
+promotion-ids,49153,38.11,object
+Unnamed: 22,49050,38.03,object
+currency,7795,6.04,object
+Amount,7795,6.04,float64
+Courier Status,6872,5.33,object
+ship-country,33,0.03,object
+ship-postal-code,33,0.03,float64
+ship-state,33,0.03,object
+ship-city,33,0.03,object
+ship-service-level,0,0.0,object
+Style,0,0.0,object
+Date,0,0.0,object
+B2B,0,0.0,bool
+Status,0,0.0,object
+Fulfilment,0,0.0,object
+Sales Channel ,0,0.0,object
+Qty,0,0.0,int64
+Order ID,0,0.0,object
+ASIN,0,0.0,object
+Size,0,0.0,object
+Category,0,0.0,object
+SKU,0,0.0,object
+index,0,0.0,int64
